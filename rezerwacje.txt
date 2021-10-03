@@ -1,0 +1,7 @@
+Sala nr: 1	Imie i nazwisko: Dawid Dawid		Adres mailowy: dawid@dawid.pl	Telefon: 987456321	Liczba rezerwacji: 5	Ktore miejsca: 43,44,45,46,47
+Sala nr: 3	Imie i nazwisko: Michu Michu		Adres mailowy: michu@michu.pl	Telefon: 852852852	Liczba rezerwacji: 3	Ktore miejsca: 55,54,56
+Sala nr: 5	Imie i nazwisko: David David		Adres mailowy: david@david.pl	Telefon: 987456963	Liczba rezerwacji: 2	Ktore miejsca: 11,12
+Sala nr: 3	Imie i nazwisko: Marek Marek		Adres mailowy: marek@marek.pl	Telefon: 78547896	Liczba rezerwacji: 3	Ktore miejsca: 33,34,35
+Sala nr: 3	Imie i nazwisko: Test Test		Adres mailowy: test@test.pl	Telefon: 854789632	Liczba rezerwacji: 3	Ktore miejsca: 11,12,13
+ÿSala nr: 1	Imie i nazwisko: 1		Adres mailowy: 1	Telefon: 1	Liczba rezerwacji: 1	Ktore miejsca: 1
+Sala nr: 3	Imie i nazwisko: Dawid Dawid		Adres mailowy: dawid@dawid.pl	Telefon: 58745896	Liczba rezerwacji: 3	Ktore miejsca: 23,24,25

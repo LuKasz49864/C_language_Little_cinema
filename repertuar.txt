@@ -1,0 +1,6 @@
+Sala nr: 2	Tytul: Krol Lew			Data: 2021.03.11	Godzina: 10:30	Cena: 20
+Sala nr: 3	Tytul: Fargo			Data: 2021.03.12	Godzina: 12:30	Cena: 20
+Sala nr: 4	Tytul: Minionki			Data: 2021.03.13	Godzina: 16:30	Cena: 20
+Sala nr: 5	Tytul: Supernatural		Data: 2021.03.14	Godzina: 14:30	Cena: 20
+Sala nr: 4	Tytul: Black		Data: 2021.01.10	Godzina: 11:30	Cena: 20
+ÿ

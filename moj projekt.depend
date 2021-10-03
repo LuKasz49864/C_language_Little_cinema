@@ -1,0 +1,237 @@
+# depslib dependency file v1.0
+1604681739 source:d:\szko³a\codeblocks\moj projekt\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1604684068 source:d:\szko³a\codeblocks\zut projekt semestralny\main.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	<float.h>
+	<math.h>
+
+1611605498 source:d:\szko³a\codeblocks\..aazut projekt semestralny\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<string.h>
+	<ctype.h>
+	"header1.h"
+
+1605164777 source:g:\codeblocks\..aazut projekt semestralny\main.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	<conio.h>
+	<string.h>
+
+1605188047 source:c:\users\admin\desktop\codeblocks\..aazut projekt semestralny\main.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	<conio.h>
+	<string.h>
+
+1610821558 source:d:\szko³a\codeblocks\..aazut projekt semestralny ver2\main.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	<conio.h>
+	<string.h>
+
+1610920255 source:d:\szko³a\codeblocks\..aazut projekt semestralny ver3\main.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	<string.h>
+	<ctype.h>
+
+1611266111 source:d:\szko³a\codeblocks\..aazut projekt semestralny ver4\main.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	<conio.h>
+	<string.h>
+	<ctype.h>
+	"header1.h"
+
+1611262591 d:\szko³a\codeblocks\..aazut projekt semestralny ver4\header1.h
+
+1611253964 d:\szko³a\codeblocks\..aazut projekt semestralny ver4\file1.c
+
+1611255853 d:\szko³a\codeblocks\..aazut projekt semestralny ver4\file.c
+
+1611266019 source:d:\szko³a\codeblocks\..aazut projekt semestralny ver4\file1.c
+	<stdio.h>
+	<stdlib.h>
+
+1611268920 source:d:\szko³a\codeblocks\..aazut projekt semestralny ver5\file1.c
+	<stdio.h>
+	<stdlib.h>
+
+1611266739 source:d:\szko³a\codeblocks\..aazut projekt semestralny ver5\main.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	<conio.h>
+	<string.h>
+	<ctype.h>
+	"header1.h"
+
+1611268148 d:\szko³a\codeblocks\..aazut projekt semestralny ver5\header1.h
+
+1611269465 source:d:\szko³a\codeblocks\..aazut projekt semestralny ver6\file1.c
+	<stdio.h>
+	<stdlib.h>
+
+1611266739 source:d:\szko³a\codeblocks\..aazut projekt semestralny ver6\main.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	<conio.h>
+	<string.h>
+	<ctype.h>
+	"header1.h"
+
+1611268148 d:\szko³a\codeblocks\..aazut projekt semestralny ver6\header1.h
+
+1611337109 source:d:\szko³a\codeblocks\..aazut projekt semestralny ver7\file1.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	<conio.h>
+	<string.h>
+	<ctype.h>
+	"header1.h"
+
+1611337140 source:d:\szko³a\codeblocks\..aazut projekt semestralny ver7\main.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	<conio.h>
+	<string.h>
+	<ctype.h>
+	"header1.h"
+
+1611268148 d:\szko³a\codeblocks\..aazut projekt semestralny ver7\header1.h
+
+1611337140 source:d:\szko³a\codeblocks\..aazut projekt semestralny ver8\main.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	<conio.h>
+	<string.h>
+	<ctype.h>
+	"header1.h"
+
+1611337520 d:\szko³a\codeblocks\..aazut projekt semestralny ver8\header1.h
+
+1611337520 source:d:\szko³a\codeblocks\..aazut projekt semestralny ver8\file1.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	<conio.h>
+	<string.h>
+	<ctype.h>
+	"header1.h"
+
+1611602274 source:d:\szko³a\codeblocks\..aazut projekt semestralny ver9\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<string.h>
+	<ctype.h>
+	"header1.h"
+
+1611528668 d:\szko³a\codeblocks\..aazut projekt semestralny ver9\header1.h
+
+1611602671 source:d:\szko³a\codeblocks\..aazut projekt semestralny ver9\file1.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<string.h>
+	<ctype.h>
+	"header1.h"
+
+1611604337 d:\szko³a\codeblocks\..aazut projekt semestralny\header1.h
+
+1611605230 source:d:\szko³a\codeblocks\..aazut projekt semestralny\file1.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<string.h>
+	<ctype.h>
+	"header1.h"
+
+1611843461 source:d:\szko³a\codeblocks\..aazut projekt semestralny nc\file1.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<string.h>
+	<ctype.h>
+	"header1.h"
+
+1611837634 d:\szko³a\codeblocks\..aazut projekt semestralny nc\header1.h
+
+1611846134 source:d:\szko³a\codeblocks\..aazut projekt semestralny nc\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<string.h>
+	<ctype.h>
+	"header1.h"
+
+1611769835 source:d:\szko³a\codeblocks\..aazut projekt semestralny nc str\file1.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<string.h>
+	<ctype.h>
+	"header1.h"
+
+1611769810 d:\szko³a\codeblocks\..aazut projekt semestralny nc str\header1.h
+
+1611662870 source:d:\szko³a\codeblocks\..aazut projekt semestralny nc str\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<string.h>
+	<ctype.h>
+	"header1.h"
+
+1611831980 source:d:\szko³a\codeblocks\..aazut projekt semestralny nc str — kopia\file1.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<string.h>
+	<ctype.h>
+	"header1.h"
+
+1611831585 d:\szko³a\codeblocks\..aazut projekt semestralny nc str — kopia\header1.h
+
+1611832806 source:d:\szko³a\codeblocks\..aazut projekt semestralny nc str — kopia\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<string.h>
+	<ctype.h>
+	"header1.h"
+
+1612022757 source:d:\szkola\zut\zaliczenia 01 semestr\programowanie 1\..aazut projekt semestralny nc\file1.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<string.h>
+	<ctype.h>
+	"header1.h"
+
+1611841234 d:\szkola\zut\zaliczenia 01 semestr\programowanie 1\..aazut projekt semestralny nc\header1.h
+
+1611849734 source:d:\szkola\zut\zaliczenia 01 semestr\programowanie 1\..aazut projekt semestralny nc\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<string.h>
+	<ctype.h>
+	"header1.h"
+
